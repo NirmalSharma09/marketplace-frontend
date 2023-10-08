@@ -1,0 +1,20 @@
+{
+    "role":[
+        {
+            "email":"admin.com",
+            "role": "admin"
+        },
+        {
+            "email":"infra.com",
+            "role": "infra-provider"
+        },
+        {
+            "email":"service.com",
+            "role": "service-provider"
+        },
+        {
+            "email":"customer.com",
+            "role": "customer"
+        }
+    ]
+}

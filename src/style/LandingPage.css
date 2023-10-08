@@ -1,0 +1,35 @@
+/* LandingPage.css */
+.bg-purple-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(147 51 234 / var(--tw-bg-opacity));
+}
+
+
+.landing-page {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .landing-button {
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  .landing-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .card img{
+    height: 200px;
+  }
